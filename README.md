@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @harrycollins256
-- 👀 I’m interested in coding
+- 👋 Hi, I’m @hcol
 - 🌱 I’m currently learning JS and Python
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...-->
